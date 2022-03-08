@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <pgterms:ebook rdf:about="ebooks/67534">
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67534/67534-0.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/67534"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-01T13:39:29</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nbfbcb5a27bcc4ba5b6712833cfefb339">
+            <rdf:value>application/octet-stream</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nbd892910c50f4895bd38b4ff3c09d38f">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">114475</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:title>The Black Star: A School Story for Boys</dcterms:title>
+    <pgterms:marc906>1925</pgterms:marc906>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <pgterms:marc508>Mary Meehan and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from scans of public domain works at The National Library of Australia.)</pgterms:marc508>
+    <pgterms:marc905>20210707135024walpole</pgterms:marc905>
+    <pgterms:marc907>AU</pgterms:marc907>
+    <pgterms:marc260>Australia :Cornstalk Publishing Company,1925.</pgterms:marc260>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/54308">
+        <pgterms:name>Walpole, Andrew H.</pgterms:name>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-03-01</dcterms:issued>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N7b8c8701a1184ead9a6398d636908f59">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67534/67534-h/67534-h.htm">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-01T13:39:27</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/67534"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N3a8c1aa74ef148fcb2e134d5ca87b6c0">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">315855</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67534/67534-0.txt">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">294176</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-01T13:39:27</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nb050537739fa4cb189e065f57831a7d2">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/67534"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67534/67534-h.zip">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">909104</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-01T13:39:29</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N60f6eb0d53ff432394dfbb18a475277e">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/67534"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N4b81ff89e8344816ad4ac6ec08047726">
+            <rdf:value>application/octet-stream</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</pgterms:downloads>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+</rdf:RDF>

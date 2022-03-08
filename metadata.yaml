@@ -1,0 +1,26 @@
+_repo: The-Black-Star-A-School-Story-for-Boys_67534
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walpole, Andrew H.
+    gutenberg_agent_id: '54308'
+    url: http://www.gutenberg.org/2009/agents/54308
+description: ''
+gutenberg_issued: '2022-03-01'
+identifiers:
+  gutenberg: '67534'
+language: en
+pgterms:marc905: 20210707135024walpole
+pgterms:marc906: '1925'
+pgterms:marc907: AU
+production_note: Mary Meehan and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from scans of public domain works at The National Library
+  of Australia.)
+publication_note: Australia :Cornstalk Publishing Company,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Black Star: A School Story for Boys'
+url: http://www.gutenberg.org/ebooks/67534
